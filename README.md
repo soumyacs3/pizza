@@ -85,5 +85,3 @@ The notebook includes:
 - **Pizza Size Contribution Pie Chart**  
 - **Ingredient Frequency Analysis**
 
-📸 *(Optional)* — Add screenshots or charts below once you render them:
-
