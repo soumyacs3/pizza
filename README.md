@@ -85,3 +85,4 @@ The notebook includes:
 - **Pizza Size Contribution Pie Chart**  
 - **Ingredient Frequency Analysis**
 
+*(Optional)* — add rendered images in `/images` and reference them like:
